@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\bin\Debug\TwoPic.exe
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\bin\Debug\TwoPic.pdb
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\obj\Debug\TwoPic.Form1.resources
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\obj\Debug\TwoPic.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\obj\Debug\TwoPic.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\obj\Debug\TwoPic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\obj\Debug\TwoPic.exe
+C:\Users\Administrator\source\repos\TwoPic\TwoPic\obj\Debug\TwoPic.pdb
